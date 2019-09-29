@@ -1,0 +1,51 @@
+[
+  {
+    "code": 1,
+    "title": "Bullit",
+    "image_url": "https://static-images.jumbo.com/product_images/47218BLK-241_360x360.png",
+    "price": 0.75,
+    "description": "Bullit Sugarfree geeft je de energie die je nodig hebt, maar dan zonder suiker"
+  },
+  {
+    "code": 2,
+    "title": "7 Energy Drink",
+    "image_url": "https://static-images.jumbo.com/product_images/160820192203_293799BLK-1_360x360.png",
+    "price": 0.50,
+    "description": "Vitamine B12 draagt bij tot een normaal energieleverend metabolisme."
+  },
+  {
+    "code": 3,
+    "title": "Monster Energy Drink",
+    "image_url": "https://products3.imgix.drizly.com/ci-monster-energy-drink-a44417a571bd8be7.jpeg?auto=format%2Ccompress&fm=jpeg&q=20",
+    "price": 1.00,
+    "description": "Tear into a can of the meanest energy drink on the planet, Monster Energy. It`s the ideal combo of the right ingredients in the right proportion to deliver the big bad buzz that only Monster can"
+  },
+  {
+    "code": 4,
+    "title": "5 Hour Energy Berry",
+    "image_url": "https://products3.imgix.drizly.com/ci-5-hour-energy-berry-28525d39d20f433e.jpeg?auto=format%2Ccompress&fm=jpeg&q=20",
+    "price": 2.50,
+    "description": "The key ingredients in 5-hour ENERGY® are also available in every day foods – like broccoli, avocados, bananas and apples – or already in you"
+  },
+  {
+    "code": 5,
+    "title": "Larry The Berry",
+    "image_url": "https://showmetheyummy.com/wp-content/uploads/2016/06/Berry-Fruit-Salad-Show-Me-the-Yummy-1.jpg",
+    "price": 4.20,
+    "description": "Larry the berry will help you grow your berry's"
+  },
+  {
+    "code": 6,
+    "title": "Hans Got Your Pants",
+    "image_url": "https://ufpro.com/storage/app/media/Product%20Images/Pants/Striker%20XT%20Gen.2%20Combat%20Pants/Steel%20Grey/striker-xt-gen2-combat-pants-steel-grey-hero-2019-846.jpg",
+    "price": 45.20,
+    "description": "You pay some ransome to get your pants back"
+  },
+  {
+    "code": 7,
+    "title": "Marcake Wants Your Pancake",
+    "image_url": "https://www.cookingclassy.com/wp-content/uploads/2018/03/lemon-ricotta-pancakes-2.jpg",
+    "price": 999.03,
+    "description": "get the pancake Marcake stole from you"
+  }
+]
